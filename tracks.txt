@@ -1,0 +1,54 @@
+Track	Organism	PMID	Description
+GM12878-ChIA-PET-CTCF	human	26686651	Processed data downloaded from GSE72816; loops object created with diffloop
+GM12878-ChIA-PET-POL2	human	26686651	Processed data downloaded from GSE72816; loops object created with diffloop; annotated with ENCODE called peaks
+GM12878-ChIP-Seq-CTCF	human	22955616	Direct download from GSM733752; processed by ENCODE
+GM12878-ChIP-Seq-H3K27ac	human	22955616	Direct download from GSM733771; processed by ENCODE
+GM12878-DNase	human	22955616	Direct download from GSM816665; processed by ENCODE
+GM12878-HiC	human	25497547	All raw sequencing reads downloaded from GSE63525; processed with Hi-C Pro for five default resolutions
+GM12878-wgbs	human	22955616	Raw sequencing data processed with bsseq from GSM1465024
+HCT116-wgbs	human	22955616	Raw sequencing data processed with bsseq from GSM1002650
+HeLa-ChIA-Pet-CTCF	human	26686651	Processed data downloaded from GSE72816; loops object created with diffloop
+HeLa-ChIA-Pet-POL2	human	26686651	Processed data downloaded from GSE72816; loops object created with diffloop; annotated with ENCODE called peaks
+hESC_rep1-HiC	human	22495300	Raw data from GSM862723; Processed with Hi-C-Pro at default 5 resolutions
+hESC_rep2-HiC	human	22495300	Raw data from GSM892306; Processed with Hi-C-Pro at default 5 resolutions
+hIMR90_rep1-HiC	human	22495300	Raw data from GSM862724; Processed with Hi-C-Pro at default 5 resolutions
+hIMR90_rep2-HiC	human	22495300	Raw data from GSM892307; Processed with Hi-C-Pro at default 5 resolutions
+IMR90-HiC	human	25497547	All raw sequencing reads downloaded from GSE63525; processed with Hi-C Pro for five default resolutions
+IMR90-wgbs	human	23925113	Download of bedgraph file from GSM1204464 converted to .bigwig using rtracklayer
+Jurkat-450k	human	22955616	Raw Methylation 450k Probeset downloaded from Encode project; processed with minfi v1.3
+Jurkat-ChIA-Pet-SMC1	human	 26940867	Both replicates processed together using mango from GSE68976; annotated from MACS2 called peaks from raw sequencing data from same series
+Jurkat-ChIP-Seq-CTCF	human	22955616	Direct download from GSM749672; processed by ENCODE
+Jurkat-ChIP-Seq-H3K27ac	human	22955616	Wig for replicate 1 transformed for hg19 using rtracklayer from GSM1697882
+Jurkat-DNase	human	22955616	Direct download from GSE29692; replicate 1; processed by ENCODE
+Jurkat-RNA-Seq	human	22955616	Direct download from GSM923424; replicate 1; processed by ENCODE
+K562-450k	human	22955616	Raw Methylation 450k Probeset downloaded from Encode project; processed with minfi v1.3
+K562-ChIA-PET-CTCF	human	22955616	Raw data downloaded from GSM970216; processed with mango
+K562-ChIA-PET-POL2	human	22955616	Raw data downloaded from GSE39495; processed with mango; annotated with ENCODE called peaks
+K562-ChIP-Seq-CTCF	human	22955616	Direct download from GSM1010820; replicate 1; processed by ENCODE
+K562-ChIP-Seq-H3K27ac	human	22955616	Direct download from GSM733656; processed by ENCODE
+K562-ChIP-Seq-H3K27me3	human	22955616	Direct download from GSM733658; processed by ENCODE
+K562-DNase	human	22955616	Direct download from GSE29692; replicate 1; processed by ENCODE
+K562-RNA-Seq	human	22955616	Direct download from ENCODE UCSC page. R2x75 Rep1V4
+MCF7-450k	human	22955616	Raw Methylation 450k Probeset downloaded from Encode project; processed with minfi v1.3
+MCF7-ChIA-PET-CTCF	human	22955616	Raw data downloaded from GSM970215; processed with mango
+MCF7-ChIA-PET-POL2	human	22955616	Raw data downloaded from GSE39495; processed with mango; annotated with ENCODE called peaks
+MCF7-ChIP-Seq-CTCF	human	22955616	Direct download from GSM1010734; replicate 1; processed by ENCODE
+MCF7-DNase	human	22955616	Direct download from GSE29692; replicate 1; processed by ENCODE
+MCF7-RNA-Seq	human	22955616	Direct download from ENCODE UCSC page. R2x75 Rep1V4
+Naive_ESC-ChIA-PET-SMC1	human	26686465	All replicates processed together using mango from GSE69647; annotated from MACS2 called peaks from raw sequencing data from same series
+Naive_ESC-ChIP-Seq-CTCF	human	26686465	Wig for replicate 1 transformed for hg19 using rtracklayer from GSE69647
+Naive_ESC-ChIP-Seq-H3K27ac	human	26686465	Wig for replicate 1 transformed for hg19 using rtracklayer from GSE69647
+Naive_ESC-wgbs	human	26853856	Three replicates processed together from GSE76970
+Primed_ESC-ChIA-PET-SMC1	human	26686465	All replicates processed together using mango from GSE69647; annotated from MACS2 called peaks from raw sequencing data from same series
+Primed_ESC-ChIP-Seq-CTCF	human	26686465	Wig for replicate 1 transformed for hg19 using rtracklayer from GSE69647
+Primed_ESC-ChIP-Seq-H3K27ac	human	26686465	Wig for replicate 1 transformed for hg19 using rtracklayer from GSE69647
+Primed_ESC-wgbs	human	26853856	Three replicates processed together from GSE76970
+ESC-ChIA-Pet-POL2	mouse	24213634	Embroyonic Stem Cells; Raw data processed with mango for SRR768392-94
+NPC-ChIA-Pet-POL2	mouse	24213634	Neurosphere Progenitor Cells; Raw data processed with mango for SRR768399-400
+NSC-ChIA-Pet-POL2	mouse	24213634	Neural Stem Cells; Raw data processed with mango for SRR768395-98
+ESC-ChIP-Seq-CTCF	mouse	24121688	Direct download from GSM970264
+ESC-ChIP-Seq-H3K27me3	mouse	25303531	Direct download from GSM1397343
+mESC_rep1-HiC	mouse	22495300	Raw data from GSM862720; Processed with Hi-C-Pro at default 5 resolutions
+mESC_rep2-HiC	mouse	22495300	Raw data from GSM862721; Processed with Hi-C-Pro at default 5 resolutions
+mCortex_rep1-HiC	mouse	22495300	Raw data from GSM892304; Processed with Hi-C-Pro at default 5 resolutions
+mCortex_rep2-HiC	mouse	22495300	Raw data from GSM892305; Processed with Hi-C-Pro at default 5 resolutions
