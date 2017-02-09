@@ -1,1 +1,2 @@
-a
+Track	Organism	PMID	Description
+Jurkat	human	 26940867	Both replicates processed together using mango from GSE68976; annotated from MACS2 called peaks from raw sequencing data from same series
