@@ -1,4 +1,3 @@
-Track	Organism	Type  PMID	Description
 Jurkat	human	 Insulated Neighborhood 26940867	Both replicates processed together using mango from GSE68976; annotated from MACS2 called peaks from raw sequencing data from same series
 ActivatedCD4	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
 EndothelialPrecursors	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
