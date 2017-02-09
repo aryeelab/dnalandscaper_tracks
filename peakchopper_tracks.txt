@@ -1,20 +1,20 @@
-Jurkat	human	Insulated Neighborhood	26940867	Both replicates processed together using mango from GSE68976; annotated from MACS2 called peaks from raw sequencing data from same series
-ActivatedCD4	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-EndothelialPrecursors	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Erythroblasts	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-FoetalThymus	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Macrophages0	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Macrophages1	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Macrophages2	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Megakaryocytes	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Monocytes	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-NaiveB	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-NaiveCD4	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-NaiveCD8	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-Neutrophils	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-NonActivatedCD4	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-TotalB	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-TotalCD4	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-TotalCD8	human	Distal Enhancer	27863249	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-CD34	human	Distal Enhancer	25938943	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
-GM12878	human	Distal Enhancer	25938943	Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Jurkat,human,Insulated Neighborhood,26940867,Both replicates processed together using mango from GSE68976; annotated from MACS2 called peaks from raw sequencing data from same series
+ActivatedCD4,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+EndothelialPrecursors,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Erythroblasts,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+FoetalThymus,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Macrophages0,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Macrophages1,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Macrophages2,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Megakaryocytes,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Monocytes,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+NaiveB,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+NaiveCD4,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+NaiveCD8,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+Neutrophils,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+NonActivatedCD4,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+TotalB,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+TotalCD4,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+TotalCD8,human,Distal Enhancer,27863249,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+CD34,human,Distal Enhancer,25938943,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
+GM12878,human,Distal Enhancer,25938943,Promoter Capture Hi-C Data Lightly Processed Directly from GEO Page
